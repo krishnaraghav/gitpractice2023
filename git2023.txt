@@ -1,9 +1,8 @@
 learning html 2023
 
 branch 
-<<<<<<< HEAD
+
 main branch changes ! 2023 8pm 
 main branch change! 2023 8:18pm
-=======
+
 git hello images
->>>>>>> hello-images
